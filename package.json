@@ -1,0 +1,19 @@
+{
+  "name": "tetrisclone",
+  "version": "0.0.0",
+  "description": "A clone of Tetris: The Grandmaster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracetveit/Tetris-Clone.git"
+  },
+  "author": "Grace Tveit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracetveit/Tetris-Clone/issues"
+  },
+  "homepage": "https://github.com/gracetveit/Tetris-Clone#readme"
+}
